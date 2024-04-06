@@ -12,7 +12,7 @@ O projeto PeladaScore será dividido em três repositórios:
 
 - [Organização](https://github.com/informalware/pelada-score)
 - [Servidor](https://github.com/informalware/pelada-score-server)
-- Web (WIP)
+- [Web (WIP)](https://github.com/informalware/pelada-score-web)
 
 A princípio, as tecnologias escolhidas são:
 
