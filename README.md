@@ -1,18 +1,16 @@
-# Pelada Score
+# FootyLens
 
 Aplicativo criado com o objetivo de integrar o Projeto principal da disciplina MAC0350 - Introdução ao Desenvolvimento de Software.
 
-Você já pensou alguma vez em como o seu amigo é ruim jogando bola? Ou bom demais? É aí que o Pelada Score entra na jogada! Com integração em um banco de dados de todas as contas dos jogadores, você pode criar uma pelada (uma party), convidar seus amigos participantes e dar nota a cada um dos jogadores, avaliando-os!
-
-Agora, a próxima vez que seu colega peladeiro for chamado para algum jogo, todos saberão o quão ruim ele é (ou o quão bom)! Crie peladas, chame amigos, crie seu perfil e chame amigos!
+Você já assistiu a alguma partida de futebol e teve alguma opinião forte sobre ela? Agora você tem um lugar apropriado para expor e guardar suas análises futebolisticas para a posteridade. No FootyLens você dá suas análises sobre uma partida e pode ver as análises das pessoas cuja opinião te interessa.
 
 ## Informações Técnicas
 
-O projeto PeladaScore será dividido em três repositórios:
+O projeto FootyLens será dividido em três repositórios:
 
-- [Organização](https://github.com/informalware/pelada-score)
-- [Servidor](https://github.com/informalware/pelada-score-server)
-- [Web (WIP)](https://github.com/informalware/pelada-score-web)
+- [Organização](https://github.com/informalware/footylens)
+- [Servidor](https://github.com/informalware/footylens-server)
+- [Web (WIP)](https://github.com/informalware/footylens-web)
 
 A princípio, as tecnologias escolhidas são:
 
@@ -29,16 +27,16 @@ Servidor:
 Web:
 
 - Node.js: engine de javascript
-- Astro.js: framework com suporte a múltiplas bibliotecas de front-end
+- SvelteKit: framework de front-end
 
 ## Objetivos
 
 Idealizamos a criação de uma plataforma onde usuários possam:
 
-- Acompanhar suas estatísticas de desempenho nas partidas (gols, assistências, etc)
-- Gerenciar e/ou acompanhar torneios
-- Gerenciar e/ou acompanhar equipes (um jogador pode pertencer a qualquer quantidade de equipes, incluindo nenhuma)
-- Gerenciar e/ou acompanhar partidas (que pertençam ou não a torneios, que possuam equipes pré-definidas ou não)
+- Ver um resumo dos eventos das partidas
+- Escrever análises sobre as partidas que viu
+- Ler análises de outras pessoas sobre qualquer partida
+- Acompanhar as análises feitas pelas pessoas que você segue
 
 ## Autores
 
